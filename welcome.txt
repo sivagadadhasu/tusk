@@ -5,14 +5,7 @@
  java 
  angularjs
   angular2
-  mysql
-  
-  
-  
-  
-  
-  
-  
-  
+  mysql 
   
   thank you 
+<<< final copy done 
