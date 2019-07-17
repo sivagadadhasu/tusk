@@ -1,10 +1,10 @@
-<<<<<<<<<<<<<<<<<<<welcome to github siva have a nice journey>>>>>>>>>>>>>>>>>>>
- 
+welcome to github siva have a nice journey
  havt to study following 
  
  java 
  angularjs
   angular2
+ have_learn
   mysql
   
   
@@ -16,3 +16,9 @@
    
   thank you 
 final copy done 
+
+  mysql 
+  
+  thank you 
+final copy done 
+master
