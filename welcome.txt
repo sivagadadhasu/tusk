@@ -3,4 +3,16 @@
  havt to study following 
  
  java 
- angularjs 
+ angularjs
+  angular2
+  mysql
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  thank you 
